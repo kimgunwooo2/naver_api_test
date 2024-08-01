@@ -1,1 +1,0 @@
-# naver_api_test
